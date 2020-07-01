@@ -1,0 +1,576 @@
+[
+    [
+        [
+            [
+                [
+                    [
+                        [
+                            [
+                                [
+                                    [
+                                        [
+                                            [
+                                                [
+                                                    [
+                                                        [
+                                                            [
+                                                                [
+                                                                    [
+                                                                        [
+                                                                            [
+                                                                                [
+                                                                                    [
+                                                                                        [
+                                                                                            [
+                                                                                                [
+                                                                                                    [
+                                                                                                        [
+                                                                                                            [
+                                                                                                                [
+                                                                                                                    [
+                                                                                                                        [
+                                                                                                                            [
+                                                                                                                                [
+                                                                                                                                    [
+                                                                                                                                        [
+                                                                                                                                            [
+                                                                                                                                                [
+                                                                                                                                                    [
+                                                                                                                                                        [
+                                                                                                                                                            [
+                                                                                                                                                                [
+                                                                                                                                                                    [
+                                                                                                                                                                        [
+                                                                                                                                                                            [
+                                                                                                                                                                                [
+                                                                                                                                                                                    [
+                                                                                                                                                                                        [
+                                                                                                                                                                                            [
+                                                                                                                                                                                                [],
+                                                                                                                                                                                                [
+                                                                                                                                                                                                    {
+                                                                                                                                                                                                        "Tech": "0000010189",
+                                                                                                                                                                                                        "User": "0000010189",
+                                                                                                                                                                                                        "AssetTag": "80-7373",
+                                                                                                                                                                                                        "Date": "2020_06_09",
+                                                                                                                                                                                                        "Time": "13:23"
+                                                                                                                                                                                                    }
+                                                                                                                                                                                                ]
+                                                                                                                                                                                            ],
+                                                                                                                                                                                            [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "Tech": "0000010189",
+                                                                                                                                                                                                    "User": "0000010189",
+                                                                                                                                                                                                    "AssetTag": "80-7373",
+                                                                                                                                                                                                    "Date": "2020_06_09",
+                                                                                                                                                                                                    "Time": "13:25",
+                                                                                                                                                                                                    "Status": "Checked In"
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        ],
+                                                                                                                                                                                        [
+                                                                                                                                                                                            {
+                                                                                                                                                                                                "Tech": "0000010189",
+                                                                                                                                                                                                "User": "0000010189",
+                                                                                                                                                                                                "AssetTag": "80-7373",
+                                                                                                                                                                                                "Date": "2020_06_09",
+                                                                                                                                                                                                "Time": "15:24",
+                                                                                                                                                                                                "Status": "Checked In"
+                                                                                                                                                                                            }
+                                                                                                                                                                                        ]
+                                                                                                                                                                                    ],
+                                                                                                                                                                                    [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "Tech": "Test",
+                                                                                                                                                                                            "User": "Test",
+                                                                                                                                                                                            "AssetTag": "80-7373",
+                                                                                                                                                                                            "Date": "2020_06_09",
+                                                                                                                                                                                            "Time": "15:25",
+                                                                                                                                                                                            "Status": "Checked In"
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                ],
+                                                                                                                                                                                [
+                                                                                                                                                                                    {
+                                                                                                                                                                                        "Tech": "Test",
+                                                                                                                                                                                        "User": "Test",
+                                                                                                                                                                                        "AssetTag": "80-7373",
+                                                                                                                                                                                        "Date": "2020_06_09",
+                                                                                                                                                                                        "Time": "15:26",
+                                                                                                                                                                                        "Status": "Checked In"
+                                                                                                                                                                                    }
+                                                                                                                                                                                ]
+                                                                                                                                                                            ],
+                                                                                                                                                                            [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "Tech": "",
+                                                                                                                                                                                    "User": "",
+                                                                                                                                                                                    "AssetTag": "80-7373",
+                                                                                                                                                                                    "Date": "2020_06_09",
+                                                                                                                                                                                    "Time": "15:30",
+                                                                                                                                                                                    "Status": "Checked In"
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        ],
+                                                                                                                                                                        [
+                                                                                                                                                                            {
+                                                                                                                                                                                "Tech": "",
+                                                                                                                                                                                "User": "",
+                                                                                                                                                                                "AssetTag": "80-7373",
+                                                                                                                                                                                "Date": "2020_06_09",
+                                                                                                                                                                                "Time": "15:32",
+                                                                                                                                                                                "Status": "Checked In"
+                                                                                                                                                                            }
+                                                                                                                                                                        ]
+                                                                                                                                                                    ],
+                                                                                                                                                                    [
+                                                                                                                                                                        {
+                                                                                                                                                                            "Tech": "",
+                                                                                                                                                                            "User": "",
+                                                                                                                                                                            "AssetTag": "80-7373",
+                                                                                                                                                                            "Date": "2020_06_09",
+                                                                                                                                                                            "Time": "15:36",
+                                                                                                                                                                            "Status": "Checked In"
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                ],
+                                                                                                                                                                [
+                                                                                                                                                                    {
+                                                                                                                                                                        "Tech": "",
+                                                                                                                                                                        "User": "",
+                                                                                                                                                                        "AssetTag": "80-7373",
+                                                                                                                                                                        "Date": "2020_06_09",
+                                                                                                                                                                        "Time": "15:37",
+                                                                                                                                                                        "Status": "Checked In"
+                                                                                                                                                                    }
+                                                                                                                                                                ]
+                                                                                                                                                            ],
+                                                                                                                                                            [
+                                                                                                                                                                {
+                                                                                                                                                                    "Tech": "",
+                                                                                                                                                                    "User": "",
+                                                                                                                                                                    "AssetTag": "",
+                                                                                                                                                                    "Date": "2020_06_09",
+                                                                                                                                                                    "Time": "15:38",
+                                                                                                                                                                    "Status": "Checked In"
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        ],
+                                                                                                                                                        [
+                                                                                                                                                            {
+                                                                                                                                                                "Tech": "",
+                                                                                                                                                                "User": "",
+                                                                                                                                                                "AssetTag": "",
+                                                                                                                                                                "Date": "2020_06_09",
+                                                                                                                                                                "Time": "15:39",
+                                                                                                                                                                "Status": "Checked In"
+                                                                                                                                                            }
+                                                                                                                                                        ]
+                                                                                                                                                    ],
+                                                                                                                                                    [
+                                                                                                                                                        {
+                                                                                                                                                            "Tech": "",
+                                                                                                                                                            "User": "",
+                                                                                                                                                            "AssetTag": "",
+                                                                                                                                                            "Date": "2020_06_09",
+                                                                                                                                                            "Time": "15:39",
+                                                                                                                                                            "Status": "Checked In"
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                ],
+                                                                                                                                                [
+                                                                                                                                                    {
+                                                                                                                                                        "Tech": "",
+                                                                                                                                                        "User": "",
+                                                                                                                                                        "AssetTag": "",
+                                                                                                                                                        "Date": "2020_06_09",
+                                                                                                                                                        "Time": "15:41",
+                                                                                                                                                        "Status": "Checked In"
+                                                                                                                                                    }
+                                                                                                                                                ]
+                                                                                                                                            ],
+                                                                                                                                            [
+                                                                                                                                                {
+                                                                                                                                                    "Tech": "",
+                                                                                                                                                    "User": "",
+                                                                                                                                                    "AssetTag": "",
+                                                                                                                                                    "Date": "2020_06_09",
+                                                                                                                                                    "Time": "15:42",
+                                                                                                                                                    "Status": "Checked In"
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        ],
+                                                                                                                                        [
+                                                                                                                                            {
+                                                                                                                                                "Tech": "0000010189",
+                                                                                                                                                "User": "0000010189",
+                                                                                                                                                "AssetTag": "80-7373",
+                                                                                                                                                "Date": "2020_06_17",
+                                                                                                                                                "Time": "13:46",
+                                                                                                                                                "Status": "Checked Out"
+                                                                                                                                            }
+                                                                                                                                        ]
+                                                                                                                                    ],
+                                                                                                                                    [
+                                                                                                                                        {
+                                                                                                                                            "Tech": "0000010189",
+                                                                                                                                            "User": "0000010189",
+                                                                                                                                            "AssetTag": "80-7373",
+                                                                                                                                            "Date": "2020_06_17",
+                                                                                                                                            "Time": "13:48",
+                                                                                                                                            "Status": "Checked Out"
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                ],
+                                                                                                                                [
+                                                                                                                                    {
+                                                                                                                                        "Tech": "0000010189",
+                                                                                                                                        "User": "0000010189",
+                                                                                                                                        "AssetTag": "80-7373",
+                                                                                                                                        "Date": "2020_06_17",
+                                                                                                                                        "Time": "13:50",
+                                                                                                                                        "Status": "Checked Out"
+                                                                                                                                    }
+                                                                                                                                ]
+                                                                                                                            ],
+                                                                                                                            [
+                                                                                                                                {
+                                                                                                                                    "Tech": "0000010189",
+                                                                                                                                    "User": "0000010189",
+                                                                                                                                    "AssetTag": "80-7373",
+                                                                                                                                    "Date": "2020_06_17",
+                                                                                                                                    "Time": "13:51",
+                                                                                                                                    "Status": "Checked Out"
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        ],
+                                                                                                                        [
+                                                                                                                            {
+                                                                                                                                "Tech": "0000010189",
+                                                                                                                                "User": "0000010189",
+                                                                                                                                "AssetTag": "80-7373",
+                                                                                                                                "Date": "2020_06_17",
+                                                                                                                                "Time": "14:00",
+                                                                                                                                "Status": "Checked Out"
+                                                                                                                            }
+                                                                                                                        ]
+                                                                                                                    ],
+                                                                                                                    [
+                                                                                                                        {
+                                                                                                                            "Tech": "000010189",
+                                                                                                                            "User": "000010189",
+                                                                                                                            "AssetTag": "80-7373",
+                                                                                                                            "Date": "2020_06_18",
+                                                                                                                            "Time": "13:06",
+                                                                                                                            "Status": "Checked Out"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                ],
+                                                                                                                [
+                                                                                                                    {
+                                                                                                                        "Tech": "000010189",
+                                                                                                                        "User": "000010189",
+                                                                                                                        "AssetTag": "80-7373",
+                                                                                                                        "Date": "2020_06_18",
+                                                                                                                        "Time": "13:18",
+                                                                                                                        "Status": "Checked Out"
+                                                                                                                    }
+                                                                                                                ]
+                                                                                                            ],
+                                                                                                            [
+                                                                                                                {
+                                                                                                                    "Tech": "000010189",
+                                                                                                                    "User": "000010189",
+                                                                                                                    "AssetTag": "80-7373",
+                                                                                                                    "Date": "2020_06_18",
+                                                                                                                    "Time": "13:35",
+                                                                                                                    "Status": "Checked Out"
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        ],
+                                                                                                        [
+                                                                                                            {
+                                                                                                                "Tech": "000010189",
+                                                                                                                "User": "000010189",
+                                                                                                                "AssetTag": "80-7373",
+                                                                                                                "Date": "2020_06_18",
+                                                                                                                "Time": "13:48",
+                                                                                                                "Status": "Checked Out"
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    ],
+                                                                                                    [
+                                                                                                        {
+                                                                                                            "Tech": "000010189",
+                                                                                                            "User": "000010189",
+                                                                                                            "AssetTag": "80-7373",
+                                                                                                            "Date": "2020_06_18",
+                                                                                                            "Time": "13:49",
+                                                                                                            "Status": "Checked Out"
+                                                                                                        }
+                                                                                                    ]
+                                                                                                ],
+                                                                                                [
+                                                                                                    {
+                                                                                                        "Tech": "000010189",
+                                                                                                        "User": "000010189",
+                                                                                                        "AssetTag": "80-7373",
+                                                                                                        "Date": "2020_06_18",
+                                                                                                        "Time": "13:52",
+                                                                                                        "Status": "Checked Out"
+                                                                                                    }
+                                                                                                ]
+                                                                                            ],
+                                                                                            [
+                                                                                                {
+                                                                                                    "Tech": "000010189",
+                                                                                                    "User": "000010189",
+                                                                                                    "AssetTag": "80-7373",
+                                                                                                    "Date": "2020_06_18",
+                                                                                                    "Time": "13:57",
+                                                                                                    "Status": "Checked Out"
+                                                                                                }
+                                                                                            ]
+                                                                                        ],
+                                                                                        [
+                                                                                            {
+                                                                                                "Tech": "000010189",
+                                                                                                "User": "000010189",
+                                                                                                "AssetTag": "80-7373",
+                                                                                                "Date": "2020_06_18",
+                                                                                                "Time": "13:58",
+                                                                                                "Status": "Checked Out"
+                                                                                            }
+                                                                                        ]
+                                                                                    ],
+                                                                                    [
+                                                                                        {
+                                                                                            "Tech": "000010189",
+                                                                                            "User": "000010189",
+                                                                                            "AssetTag": "80-7373",
+                                                                                            "Date": "2020_06_18",
+                                                                                            "Time": "14:20",
+                                                                                            "Status": "Checked Out"
+                                                                                        }
+                                                                                    ]
+                                                                                ],
+                                                                                [
+                                                                                    {
+                                                                                        "Tech": "000010189",
+                                                                                        "User": "000010189",
+                                                                                        "AssetTag": "80-7373",
+                                                                                        "Date": "2020_06_18",
+                                                                                        "Time": "14:21",
+                                                                                        "Status": "Checked Out"
+                                                                                    }
+                                                                                ]
+                                                                            ],
+                                                                            [
+                                                                                {
+                                                                                    "Tech": "000010189",
+                                                                                    "User": "000010189",
+                                                                                    "AssetTag": "80-7373",
+                                                                                    "Date": "2020_06_18",
+                                                                                    "Time": "14:25",
+                                                                                    "Status": "Checked Out"
+                                                                                }
+                                                                            ]
+                                                                        ],
+                                                                        [
+                                                                            {
+                                                                                "Tech": "545065",
+                                                                                "User": "6540654",
+                                                                                "AssetTag": "80-7374",
+                                                                                "Date": "2020_06_18",
+                                                                                "Time": "15:54",
+                                                                                "Status": "Checked In"
+                                                                            }
+                                                                        ]
+                                                                    ],
+                                                                    [
+                                                                        {
+                                                                            "Tech": "5640654",
+                                                                            "User": "6540654",
+                                                                            "AssetTag": "80-7374",
+                                                                            "Date": "2020_06_18",
+                                                                            "Time": "15:55",
+                                                                            "Status": "Checked In"
+                                                                        }
+                                                                    ]
+                                                                ],
+                                                                [
+                                                                    {
+                                                                        "Tech": "000010189",
+                                                                        "User": "000010189",
+                                                                        "AssetTag": "80-7375",
+                                                                        "Date": "2020_06_22",
+                                                                        "Time": "09:45",
+                                                                        "Status": "Checked In"
+                                                                    }
+                                                                ]
+                                                            ],
+                                                            [
+                                                                {
+                                                                    "Tech": "000010189",
+                                                                    "User": "000010189",
+                                                                    "AssetTag": "80-7373",
+                                                                    "Date": "2020_06_22",
+                                                                    "Time": "09:45",
+                                                                    "Status": "Checked In"
+                                                                }
+                                                            ]
+                                                        ],
+                                                        [
+                                                            {
+                                                                "Tech": "000010189",
+                                                                "User": "000010189",
+                                                                "AssetTag": "80-7373",
+                                                                "Date": "2020_06_22",
+                                                                "Time": "09:55",
+                                                                "Status": "Checked Out"
+                                                            }
+                                                        ]
+                                                    ],
+                                                    [
+                                                        {
+                                                            "Tech": "000010189",
+                                                            "User": "000010189",
+                                                            "AssetTag": "80-7374",
+                                                            "Date": "2020_06_22",
+                                                            "Time": "09:56",
+                                                            "Status": "Checked Out"
+                                                        }
+                                                    ]
+                                                ],
+                                                [
+                                                    {
+                                                        "Tech": "000010189",
+                                                        "User": "000010189",
+                                                        "AssetTag": "80-7373",
+                                                        "Date": "2020_06_22",
+                                                        "Time": "09:57",
+                                                        "Status": "Checked In"
+                                                    }
+                                                ]
+                                            ],
+                                            [
+                                                {
+                                                    "Tech": "000010189",
+                                                    "User": "000010189",
+                                                    "AssetTag": "80-7374",
+                                                    "Date": "2020_06_22",
+                                                    "Time": "10:00",
+                                                    "Status": "Checked In"
+                                                }
+                                            ]
+                                        ],
+                                        [
+                                            {
+                                                "Tech": "000010189",
+                                                "User": "000010189",
+                                                "AssetTag": "80-7373",
+                                                "Date": "2020_06_22",
+                                                "Time": "10:09",
+                                                "Status": "Checked Out"
+                                            }
+                                        ]
+                                    ],
+                                    [
+                                        {
+                                            "Tech": "000010189",
+                                            "User": "000010189",
+                                            "AssetTag": "80-7373",
+                                            "Date": "2020_06_22",
+                                            "Time": "13:15",
+                                            "Status": "Checked In"
+                                        }
+                                    ]
+                                ],
+                                [
+                                    {
+                                        "Tech": "000010189",
+                                        "User": "000010189",
+                                        "AssetTag": "80-7373",
+                                        "Date": "2020_06_22",
+                                        "Time": "14:18",
+                                        "Status": "Checked Out"
+                                    }
+                                ]
+                            ],
+                            [
+                                {
+                                    "Tech": "000010189",
+                                    "User": "000010189",
+                                    "AssetTag": "80-7374",
+                                    "Date": "2020_06_29",
+                                    "Time": "08:59",
+                                    "Status": "Checked Out"
+                                }
+                            ]
+                        ],
+                        [
+                            {
+                                "Tech": "000010189",
+                                "User": "000010189",
+                                "AssetTag": "80-7373",
+                                "Date": "2020_06_29",
+                                "Time": "09:01",
+                                "Status": "Checked In"
+                            }
+                        ]
+                    ],
+                    [
+                        {
+                            "Tech": "000010189",
+                            "User": "000010189",
+                            "AssetTag": "80-7373",
+                            "Date": "2020_06_29",
+                            "Time": "09:45",
+                            "Status": "Checked In"
+                        }
+                    ]
+                ],
+                [
+                    {
+                        "Tech": "000010189",
+                        "User": "000010189",
+                        "AssetTag": "80-7373",
+                        "Date": "2020_06_29",
+                        "Time": "13:42",
+                        "Status": "Checked Out"
+                    }
+                ]
+            ],
+            [
+                {
+                    "Tech": "000010189",
+                    "User": "000010189",
+                    "AssetTag": "80-7373",
+                    "Date": "2020_06_29",
+                    "Time": "13:44",
+                    "Status": "Checked In"
+                }
+            ]
+        ],
+        [
+            {
+                "Tech": "000010189",
+                "User": "000010189",
+                "AssetTag": "80-7374",
+                "Date": "2020_06_29",
+                "Time": "13:47",
+                "Status": "Checked In"
+            }
+        ]
+    ],
+    [
+        {
+            "Tech": "000010189",
+            "User": "000010189",
+            "AssetTag": "80-7373",
+            "Date": "2020_06_30",
+            "Time": "14:50",
+            "Status": "Checked Out"
+        }
+    ]
+]
