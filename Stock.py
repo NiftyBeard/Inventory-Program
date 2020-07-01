@@ -4,9 +4,9 @@ import tkinter as tk
 from tkinter import *
 from tkinter import messagebox
 import json
-import pandas as pd
-from IPython.display import HTML
-import pandastable as pt
+#import pandas as pd
+#from IPython.display import HTML
+#import pandastable as pt
 import time
 from datetime import datetime
 import sqlite3
@@ -25,7 +25,7 @@ def get_time(fmt='%H:%M'):
 
 
 # ======================== Inventory ==========================
-assets = ('C:/Users/Garrett/Documents/Assets.json')
+assets = ('Assets.json')
 tableData = ['AssetTag', 'Type']
 '''TABLE NAMES FOR SQL TABLES
 assets = Asset information, values are Asset, Type of Device, Manufacturer, and Model
@@ -213,11 +213,11 @@ def checkinwindow():
 		}] 
 		#"Tech": e1.get(), "User": e2.get(), "AssetTag": e3.get(), "Time": get_date_time(), get_time()
 
-		with open('C:/Users/Garrett/Documents/Log.json') as data_file:
+		with open('Log.json') as data_file:
 			old_data = json.load(data_file)
 		data = (old_data, formData)
 
-		with open('C:/Users/Garrett/Documents/Log.json', 'w') as outfile:
+		with open('Log.json', 'w') as outfile:
 			json.dump(data, outfile, indent=4,)
 
 	def checkinasset():
@@ -306,11 +306,11 @@ def checkoutwindow():
 			}] 
 			#"Tech": e1.get(), "User": e2.get(), "AssetTag": e3.get(), "Time": get_date_time(), get_time()
 
-			with open('C:/Users/Garrett/Documents/Log.json') as data_file:
+			with open('Log.json') as data_file:
 				old_data = json.load(data_file)
 			data = (old_data, formData)
 
-			with open('C:/Users/Garrett/Documents/Log.json', 'w') as outfile:
+			with open('Log.json', 'w') as outfile:
 				json.dump(data, outfile, indent=4,)
 
 	def checkoutasset():
